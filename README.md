@@ -4,7 +4,7 @@
 Welcome to the Vrinda Store Annual Report Dashboard project repository! This project focuses on analyzing sales data to uncover actionable insights for business growth. The Excel-based dashboard provides a comprehensive view of customer behavior, regional performance, and sales channels.
 
 ## Preview
-![Dashboard Preview]()
+![Dashboard Preview](Report.JPG)
 
 ## Objective
 The goal of the Vrinda Store Annual Report Dashboard project is to analyze sales data and extract actionable insights to drive business growth. By understanding customer behavior and identifying key trends, the objective is to inform strategic decisions and enhance sales performance.
